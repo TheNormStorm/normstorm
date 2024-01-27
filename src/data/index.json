@@ -1,0 +1,39 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/react.png",
+        "title": "Front End Development",
+        "description": "Blend technical proficiency, troubleshooting experience for intuitive front-end designs catering to user needs."
+      },
+      {
+        "id": "2",
+        "src": "./img/sql.png",
+        "title": "SQL Server",
+        "description": "Application support background excels in SQL Server management, expertly navigating and optimizing databases seamlessly. "
+      },
+      {
+        "id": "4",
+        "src": "./img/development.png",
+        "title": "WebApp Development",
+        "description": "React with HTML/CSS powers dynamic, responsive web apps for seamless user interactions and visually appealing designs."
+      },
+      {
+        "id": "3",
+        "src": "./img/vscode.png",
+        "title": "Tools",
+        "description": "SQL Server | VSCode | GitHub | NPM | React.js | Teams | Photosop | Figma | Chrome Developer Tools | HTML | CSS | JavaScript"
+      }
+
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/demo.png",
+        "title": "JamTravel App",
+        "description": "Visually appealing app created in Flutter. Displays the local gems situated in the breath taking island of Jamaica",
+        "link": "View In Github"
+      }
+    ]
+  }
+  
