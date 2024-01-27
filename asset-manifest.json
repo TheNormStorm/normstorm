@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/normstorm/static/css/main.7bf27a77.css",
-    "main.js": "/normstorm/static/js/main.da6ed68d.js",
-    "index.html": "/normstorm/index.html",
-    "main.7bf27a77.css.map": "/normstorm/static/css/main.7bf27a77.css.map",
-    "main.da6ed68d.js.map": "/normstorm/static/js/main.da6ed68d.js.map"
+    "main.css": "/static/css/main.7bf27a77.css",
+    "main.js": "/static/js/main.da6ed68d.js",
+    "index.html": "/index.html",
+    "main.7bf27a77.css.map": "/static/css/main.7bf27a77.css.map",
+    "main.da6ed68d.js.map": "/static/js/main.da6ed68d.js.map"
   },
   "entrypoints": [
     "static/css/main.7bf27a77.css",
