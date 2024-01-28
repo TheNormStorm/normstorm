@@ -131,7 +131,7 @@ h2 {
 /* Section Titles */
 /* Skills & About Me */
 .section--title {
-  color: var(--primary);
+  color: var(--darkblue);
   font-size: 30px;
   text-align: center;
   font-style: normal;
@@ -178,7 +178,7 @@ h2 {
 }
 .hero--section--title {
   color: var(--heading-color);
-  font-size: 74.667px;
+  font-size: 89.667px;
   font-weight: 700;
   line-height: 90px;
   align-self: stretch;
